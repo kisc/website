@@ -3,18 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-keywords:
-author: John Doe
-language:
-timezone:
+title: "神戸大学コンピュータ部"
+description: "神戸大学コンピュータ部のホームページです．"
+author: "神戸大学コンピュータ部"
+language: ja
+timezone: Asia/Tokyo
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /
+url: https://co-coa.sakura.ne.jp/test
+root: /test/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -73,7 +71,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: clean-blog
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
